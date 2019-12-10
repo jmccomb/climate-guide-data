@@ -6,6 +6,6 @@ numpy
 GEOS
 shapely
 pyshp
-PROJ.4==6.2.1
+PROJ.4==4.9.0
 six
 cartopy
