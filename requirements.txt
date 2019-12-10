@@ -8,4 +8,4 @@ shapely
 pyshp
 PROJ.4
 six
-cartopy
+cartopy==6.2.1
