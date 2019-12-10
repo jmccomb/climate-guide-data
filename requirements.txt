@@ -1,4 +1,11 @@
 pandas
 seaborn
 matplotlib
+Cython
+numpy
+GEOS
+shapely
+pyshp
+PROJ.4
+six
 cartopy
