@@ -6,10 +6,6 @@ numpy
 GEOS
 shapely
 pyshp
-libproj-dev 
-proj-data 
-proj-bin
-libgeos-dev
 proj
 six
 cartopy
