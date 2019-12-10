@@ -10,6 +10,6 @@ libproj-dev
 proj-data 
 proj-bin
 libgeos-dev
-pyproj
+proj
 six
 cartopy
