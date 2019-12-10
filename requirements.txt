@@ -1,5 +1,4 @@
 pandas
 seaborn
-sqlite3
 matplotlib
 cartopy
